@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jeet Shah =================================================================================================================================  Data Analyst ------------  As a data-driven analyst and MS Information Technology student at Arizona State University, I specialize in Python, SQL, and machine learning. With experience in BI tools and a passion for innovative tech solutions, I'm seeking challenging data analyst roles to leverage my skills in deriving actionable insights and optimizing business processes. My technical expertise spans a wide range of programming languages, including Python, SQL, R, and JavaScript. I'm proficient in data analysis and visualization tools such as Power BI, Tableau, and Excel, as well as machine learning frameworks like TensorFlow and PyTorch. My professional experience includes roles as a Research Analyst at VaibhavLaxmi Spinning Mills and a Project Intern at Brainy Beam Technology. In these positions, I've optimized SQL queries, developed forecasting models, and implemented text preprocessing techniques. I've also created dynamic dashboards and improved system performance in various projects. I hold a Bachelor's degree in Computer Science and Engineering from Indus University, and I'm currently pursuing my Master's in Information Technology at Arizona State University. My project portfolio demonstrates my ability to develop innovative solutions, from text-to-speech conversion systems to book recommendation algorithms. With a strong foundation in data analysis and a commitment to continuous learning, I'm eager to contribute my skills to challenging projects and drive data-informed decision-making in a professional setting.  
 
-* 🌍  I'm based in Tempe, AZ *
-* ✉️  You can contact me at [jshah96@asu.edu](mailto:jshah96@asu.edu) *
-* 🤝  I'm open to collaborating on Projects *
+* 🌍  I'm based in Tempe, AZ.
+* ✉️  You can contact me at [jshah96@asu.edu](mailto:jshah96@asu.edu).
+* 🤝  I'm open to collaborating on Projects.
 
 ### Skills  
 
