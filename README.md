@@ -101,6 +101,7 @@ I’m now seeking **full-time opportunities starting January 2026** in **Data An
 <p align="left">
 📜 <b>Additional Certifications</b>  
 <br>
+  
 - Getting Started with SAS Visual Analytics by SAS
   
 - Programming for Everybody (Getting Started with
