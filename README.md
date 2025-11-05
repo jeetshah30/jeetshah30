@@ -1,16 +1,77 @@
-Hi there! 👋
-I'm Jeet Shah
-🎯 Data Analyst | Aspiring Data Engineer | Tech Explorer
-I’m a data-driven analyst and M.S. Information Technology student at Arizona State University, passionate about turning complex data into clear, actionable insights.
-With experience in Python, SQL, and Business Intelligence tools, I love designing data pipelines, crafting insightful dashboards, and building ML-powered solutions that solve real-world problems.
-At Vaibhav Laxmi Spinning Mills, I engineered ETL workflows, automated reporting pipelines, and deployed forecasting models that improved operational efficiency. My academic and project work also spans machine learning, cloud data engineering, and NLP applications.
-I’m currently seeking full-time opportunities starting January 2026 in Data Analytics, Business Intelligence, or Software Engineering, where I can leverage my technical and analytical skills to drive data-informed decision-making.
-💡 “Transforming data into decisions and insights into impact.”
-🧠 Tech Stack
-💻 Languages: Python | SQL | R | JavaScript
-📊 Analytics & BI: Power BI | Tableau | Excel | Google Data Studio
-☁️ Cloud & Tools: AWS | GCP | Docker | Git | Airflow
-🤖 Machine Learning: Scikit-learn | TensorFlow | PyTorch | NLP | Forecasting
-📫 Connect with Me
-✉️ jshah96@asu.edu
-🔗 LinkedIn
+<h1 align="center">Hi there! 👋 I'm <span style="color:#00bcd4;">Jeet Shah</span></h1>
+
+<h3 align="center">📊 Data Analyst | Aspiring Data Engineer | Tech Explorer</h3>
+
+---
+
+<p align="center">
+🎓 <b>M.S. in Information Technology</b> @ Arizona State University  
+<br>
+💼 Data-driven Analyst with experience in <b>Python, SQL, and BI tools</b>  
+<br>
+🚀 Passionate about transforming data into decisions & insights into impact  
+</p>
+
+---
+
+### 🧠 About Me
+
+I’m a <b>data-driven analyst</b> passionate about solving business problems through analytics, automation, and machine learning.  
+My journey spans building <b>ETL pipelines, data models, dashboards, and ML forecasting systems</b> that turn raw data into business value.  
+
+At **Vaibhav Laxmi Spinning Mills**, I engineered ETL pipelines, created interactive Power BI dashboards, and deployed forecasting models that optimized inventory and reduced costs.  
+My projects at **ASU** and in personal initiatives involve cloud platforms, statistical modeling, and natural language processing.
+
+Currently, I’m seeking **full-time opportunities (Jan 2026 start)** in:  
+💼 Data Analytics | Business Intelligence | Software Engineering  
+
+---
+
+### ⚙️ Tech Stack
+
+| Category | Tools & Technologies |
+|-----------|----------------------|
+| **Languages** | Python 🐍 • SQL 💾 • R 📈 • JavaScript ⚡ |
+| **Data & BI** | Power BI • Tableau • Excel • Google Data Studio |
+| **Cloud & Big Data** | AWS ☁️ • GCP • Hadoop • Spark • Airflow • Docker |
+| **Machine Learning** | Scikit-learn • TensorFlow • PyTorch • NLP • Forecasting |
+| **Databases** | MySQL • PostgreSQL • Redshift • BigQuery |
+
+---
+
+### 💡 What I Love Doing
+- 📈 Turning raw data into meaningful insights  
+- ⚙️ Automating workflows and analytics pipelines  
+- 🤖 Building ML models for prediction & recommendation  
+- 🎨 Designing clean, interactive BI dashboards  
+- 🌐 Learning & experimenting with cloud data systems  
+
+---
+
+### 📫 Let’s Connect!
+
+<p align="center">
+<a href="mailto:jshah96@asu.edu" target="_blank">
+  <img src="https://img.shields.io/badge/Email-jshah96%40asu.edu-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/jeetshah3" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Jeet%20Shah-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
+
+---
+
+### ⚡ GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/jeetshah30">
+    <img src="https://github-readme-stats.vercel.app/api?username=jeetshah30&show_icons=true&count_private=true&title_color=00bcd4&text_color=ffffff&icon_color=00bcd4&bg_color=1c1917&hide_border=true" width="55%"/>
+  </a>
+</p>
+
+---
+
+<h4 align="center">✨ "Turning data into decisions and ideas into innovation." ✨</h4>
+
+
