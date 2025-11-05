@@ -109,31 +109,61 @@ I’m now seeking **full-time opportunities starting January 2026** in **Data An
   </a>
 </p>
 
-<p align="left">
-📜 <b>Additional Certifications</b>  
-<br>
-  
-- Getting Started with SAS Visual Analytics by SAS
-  
-- Programming for Everybody (Getting Started with
-Python) by Michigan University
+<p align="center">
+**Additional Certificates**
 
-- Using Python to Access Web Data by Michigan University
-  
-- AWS Training and Development :
-  
-  1. Developing Machine Learning
-     
-  2. Essentials of Prompt Engineering
-     
-  3. Foundations of Machine Learning and AI
-     
-  4. Optimizing Foundation Models
-     
-  5. Responsible AI Practices
-      
-  6. Security, Compliance, and Governance for AI Solutions 
+  <!-- SAS Visual Analytics -->
+  <a href="https://github.com/jeetshah30/jeetshah30/blob/main/Certificate%20for%20Jeet%20Shah%20for%20SAS%20Visual%20Analytics.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/SAS%20Institute-Visual%20Analytics-1f77b4?style=for-the-badge&logo=sas&logoColor=white" />
+  </a>
+
+  <!-- Programming for Everybody (Python) -->
+  <a href="https://github.com/jeetshah30/jeetshah30/blob/main/Certificate%20for%20Jeet%20Shah%20for%20Programming%20for%20Everybody%20by%20Michigan%20University(Python).pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Michigan%20University-Programming%20for%20Everybody-00274C?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+
+  <!-- Python Data Structures -->
+  <a href="https://github.com/jeetshah30/jeetshah30/blob/main/Certificate%20for%20Jeet%20Shah%20for%20Python%20Data%20Structures%20(Course-2).pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Michigan%20University-Python%20Data%20Structures-003366?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+
+  <!-- Using Python to Access Web Data -->
+  <a href="https://github.com/jeetshah30/jeetshah30/blob/main/Certificate%20for%20Jeet%20Shah%20for%20Using%20Python%20to%20Access%20Web%20Data.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Michigan%20University-Using%20Python%20to%20Access%20Web%20Data-00467F?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+
+  <!-- Developing Machine Learning Solutions -->
+  <a href="https://github.com/jeetshah30/jeetshah30/blob/main/JeetShah_DevelopingMachineLearningSolutions_AWSSkillBuilder_Certificate.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/AWS%20SkillBuilder-Developing%20Machine%20Learning%20Solutions-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  </a>
+
+  <!-- Essentials of Prompt Engineering -->
+  <a href="https://github.com/jeetshah30/jeetshah30/blob/main/JeetShah_EssentialsofPromptEngineering_AWSSkillBuilderCourseCompletionCertificate.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/AWS%20SkillBuilder-Essentials%20of%20Prompt%20Engineering-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  </a>
+
+  <!-- Foundations of Machine Learning and AI -->
+  <a href="https://github.com/jeetshah30/jeetshah30/blob/main/JeetShah_FoundationsofMachineLearningandAI_Certificate_AWS_Skill_Builder.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/AWS%20SkillBuilder-Foundations%20of%20Machine%20Learning%20%26%20AI-146EB4?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  </a>
+
+  <!-- Optimizing Foundation Models -->
+  <a href="https://github.com/jeetshah30/jeetshah30/blob/main/JeetShah_OptimizingFoundationModels_AWSSkillBuilderCourseCompletionCertificate.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/AWS%20SkillBuilder-Optimizing%20Foundation%20Models-FFB300?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  </a>
+
+  <!-- Responsible AI Practices -->
+  <a href="https://github.com/jeetshah30/jeetshah30/blob/main/JeetShah_ResponsibleArtificialIntelligencePractices_AWSSkillBuilderCourseCompletionCertificate.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/AWS%20SkillBuilder-Responsible%20AI%20Practices-FF6600?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  </a>
+
+  <!-- Security, Compliance, and Governance for AI Solutions -->
+  <a href="https://github.com/jeetshah30/jeetshah30/blob/main/JeetShah_Security_Compliance_and_Governance_forAISolutions_Certificate_AWSSkillBuilder.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/AWS%20SkillBuilder-Security%2C%20Compliance%20%26%20Governance%20for%20AI-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  </a>
+
 </p>
+
 
 ---
 
