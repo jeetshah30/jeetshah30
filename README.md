@@ -93,8 +93,20 @@ I’m now seeking **full-time opportunities starting January 2026** in **Data An
 ### 🏅 Certifications & Achievements
 
 <p align="center">
-  <img src="'/Users/jeetshah3011/Documents/Resume and Job Application Materials/Certificates/AWS_Academy_Graduate___AWS_Academy_Data_Engineering_Badge20250420-27-gk5wel.pdf' />
-  <img src="https://img.shields.io/badge/AWS%20Academy-Machine%20Learning%20Foundations-blueviolet?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <a href="https://www.credly.com/go/8sAbSgUE" target="_blank">
+    <img src="https://img.shields.io/badge/AWS%20Academy-Data%20Engineering%20Graduate-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/go/Ow8m9207" target="_blank">
+    <img src="https://img.shields.io/badge/AWS%20Academy-Machine%20Learning%20Foundations-blueviolet?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/SUN%20Award-ASU%20Student%20Success%20Leadership-brightgreen?style=for-the-badge&logo=google-scholar&logoColor=white" />
+</p>
+
+<p align="center">
+📜 <b>Additional Certifications</b>  
+<br>
+- <a href="https://www.credly.com/go/8sAbSgUE" target="_blank">AWS Academy Data Engineering Graduate</a>  
+- <a href="https://www.credly.com/go/Ow8m9207" target="_blank">AWS Academy Machine Learning Foundations</a>  
   <img src="https://img.shields.io/badge/SUN%20Award-ASU%20Student%20Success%20Leadership-brightgreen?style=for-the-badge&logo=google-scholar&logoColor=white" />
 </p>
 
