@@ -102,15 +102,24 @@ I’m now seeking **full-time opportunities starting January 2026** in **Data An
 📜 <b>Additional Certifications</b>  
 <br>
 - Getting Started with SAS Visual Analytics by SAS
+  
 - Programming for Everybody (Getting Started with
 Python) by Michigan University
+
 - Using Python to Access Web Data by Michigan University
+  
 - AWS Training and Development :
-  1. Developing Machine Learning 
-  2. Essentials of Prompt Engineering 
+  
+  1. Developing Machine Learning
+     
+  2. Essentials of Prompt Engineering
+     
   3. Foundations of Machine Learning and AI
-  4. Optimizing Foundation Models 
+     
+  4. Optimizing Foundation Models
+     
   5. Responsible AI Practices
+      
   6. Security, Compliance, and Governance for AI Solutions 
 </p>
 
