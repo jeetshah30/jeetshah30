@@ -98,7 +98,7 @@ I’m now seeking **full-time opportunities starting January 2026** in **Data An
   <img src="https://img.shields.io/badge/SUN%20Award-ASU%20Student%20Success%20Leadership-brightgreen?style=for-the-badge&logo=google-scholar&logoColor=white" />
 </p>
 
-<p align="center">
+<p align="left">
 📜 <b>Additional Certifications</b>  
 <br>
 - Getting Started with SAS Visual Analytics by SAS
