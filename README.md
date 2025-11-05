@@ -16,7 +16,7 @@
 
 ### 🧠 About Me
 
-I’m a **data-focused analyst and technologist** currently pursuing my **M.S. in Information Technology at Arizona State University (Graduating Dec 2025)**.  
+I’m a **data-focused analyst and technologist** pursuing **M.S. Information Technology at Arizona State University**.  
 My passion lies in using **data, automation, and cloud technologies** to deliver actionable insights and build scalable analytical solutions.  
 
 I bring hands-on experience from **industry, academia, and freelance projects**, working across data analysis, business intelligence, and software development.
