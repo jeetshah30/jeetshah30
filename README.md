@@ -90,16 +90,6 @@ I’m now seeking **full-time opportunities starting January 2026** in **Data An
 
 ---
 
-### ⚡ GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/jeetshah30">
-    <img src="https://github-readme-stats.vercel.app/api?username=jeetshah30&show_icons=true&count_private=true&title_color=00bcd4&text_color=ffffff&icon_color=00bcd4&bg_color=1c1917&hide_border=true" width="55%"/>
-  </a>
-</p>
-
----
-
 <h4 align="center">✨ "Turning data into decisions and ideas into innovation." ✨</h4>
 
 
