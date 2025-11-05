@@ -109,8 +109,10 @@ I’m now seeking **full-time opportunities starting January 2026** in **Data An
   </a>
 </p>
 
+<h2 align="center">📜 Additional Certifications</h2>
+
 <p align="center">
-**Additional Certificates**
+
 
   <!-- SAS Visual Analytics -->
   <a href="https://github.com/jeetshah30/jeetshah30/blob/main/Certificate%20for%20Jeet%20Shah%20for%20SAS%20Visual%20Analytics.pdf" target="_blank">
