@@ -36,12 +36,6 @@ At Brainy Beam, I worked on text analytics and automation projects involving NLP
 - Integrated **Google TTS APIs** to automate voice generation for accessibility use cases.  
 - Developed modular **data ingestion scripts** to support both structured (SQL, CSV) and unstructured (PDF, TXT) sources.
 
-**Freelance Data Analyst (Remote)**  
-As a freelancer, I collaborated with small businesses and startups to transform their data operations:  
-- Built **interactive Power BI and Tableau dashboards** for marketing and sales analytics.  
-- Automated **data pipelines** using Python and SQL, enabling near real-time business reporting.  
-- Designed **KPI frameworks and forecasting models** to support growth planning and budget decisions.
-
 #### 🎓 Academic Projects
 **Warehouse Operations Monitoring System**  
 - Designed and implemented a scalable **MySQL data warehouse** for 500K+ daily transactions.  
