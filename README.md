@@ -23,6 +23,10 @@ I bring hands-on experience from **industry, academia, and freelance projects**,
 
 #### 💼 Professional Experience
 
+**Grader – ASU Learning Enterprise, Arizona State University**  
+As a Grader for courses like *Cloud Computing*, *Google IT*, and *Advanced Big Data Analytics*, I support student learning and technical growth.  
+I evaluate assignments, manage queries through HubSpot, and collaborate with faculty to improve course content focused on cloud analytics, SQL, and data modeling.
+
 **Data Analyst – Vaibhav Laxmi Spinning Mills Pvt. Ltd. (India)**  
 I led multiple data initiatives to improve analytics reliability and reporting efficiency:  
 - Designed and optimized **ETL pipelines** (Python + SQL) to process over **1M records daily** from SAP systems.  
@@ -30,7 +34,7 @@ I led multiple data initiatives to improve analytics reliability and reporting e
 - Built **Power BI dashboards** for financial and operational reporting, automating KPI tracking across departments.  
 - Implemented **data quality frameworks**, reducing manual QA effort and increasing data reliability to 93%.
 
-**Project Intern – Brainy Beam Technology Pvt. Ltd.**  
+**Project Intern – Brainy Beam Technology Pvt. Ltd. (India)**  
 At Brainy Beam, I worked on text analytics and automation projects involving NLP and APIs:  
 - Created **text preprocessing pipelines** for 10K+ unstructured records, boosting NLP accuracy by 25%.  
 - Integrated **Google TTS APIs** to automate voice generation for accessibility use cases.  
