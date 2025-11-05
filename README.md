@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm <span style="color:#00bcd4;">Jeet Shah</span></h1>
 
-<h3 align="center">📊 Data Analyst | Aspiring Data Engineer | Tech Explorer</h3>
+<h3 align="center">📊 Data Analyst | Software Engineer | Tech Explorer</h3>
 
 ---
 
