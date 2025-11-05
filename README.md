@@ -92,13 +92,31 @@ I’m now seeking **full-time opportunities starting January 2026** in **Data An
 
 ### 🏅 Certifications & Achievements
 
-
-<p align="center"> 
-<br>
-- <a href="https://www.credly.com/go/8sAbSgUE" target="_blank">AWS Academy Data Engineering Graduate</a>  
-- <a href="https://www.credly.com/go/Ow8m9207" target="_blank">AWS Academy Machine Learning Foundations</a>  
-  <img src="https://img.shields.io/badge/SUN%20Award-ASU%20Student%20Success%20Leadership-brightgreen?style=for-the-badge&logo=google-scholar&logoColor=white" />
+<p align="center">
+  <!-- AWS Data Engineering -->
+  <a href="https://github.com/jeetshah30/jeetshah30/blob/main/AWS_Academy_Graduate___AWS_Academy_Data_Engineering_Badge20250420-27-gk5wel.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/AWS%20Academy-Data%20Engineering%20Graduate-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  </a>
+  
+  <!-- AWS ML Foundations -->
+  <a href="https://github.com/jeetshah30/jeetshah30/blob/main/AWS_Academy_Graduate___AWS_Academy_Machine_Learning_Foundations_Badge20250420-28-vdrwgs.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/AWS%20Academy-Machine%20Learning%20Foundations-blueviolet?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  </a>
+  
+  <!-- ASU SUN Award -->
+  <a href="https://github.com/jeetshah30/jeetshah30/blob/main/SUN_Award_JeetShah_ASU.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/ASU%20SUN%20Award-Student%20Success%20%26%20Leadership-maroon?style=for-the-badge&logo=graduationcap&logoColor=gold" />
+  </a>
 </p>
+
+<p align="center">
+📜 <b>Details</b>  
+<br>
+- <a href="https://github.com/jeetshah30/jeetshah30/blob/main/AWS_Academy_Graduate___AWS_Academy_Data_Engineering_Badge20250420-27-gk5wel.pdf" target="_blank">AWS Academy Data Engineering Graduate</a> – Credentialed via AWS Academy (2025)  
+- <a href="https://github.com/jeetshah30/jeetshah30/blob/main/AWS_Academy_Graduate___AWS_Academy_Machine_Learning_Foundations_Badge20250420-28-vdrwgs.pdf" target="_blank">AWS Academy Machine Learning Foundations</a> – Credentialed via AWS Academy (2025)  
+- <a href="https://github.com/jeetshah30/jeetshah30/blob/main/SUN_Award_JeetShah_ASU.pdf" target="_blank">ASU SUN Award</a> – Recognized for outstanding leadership and dedication to student success at Arizona State University (2024)  
+</p>
+
 
 <p align="left">
 📜 <b>Additional Certifications</b>  
