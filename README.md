@@ -109,15 +109,6 @@ I’m now seeking **full-time opportunities starting January 2026** in **Data An
   </a>
 </p>
 
-<p align="center">
-📜 <b>Details</b>  
-<br>
-- <a href="https://github.com/jeetshah30/jeetshah30/blob/main/AWS_Academy_Graduate___AWS_Academy_Data_Engineering_Badge20250420-27-gk5wel.pdf" target="_blank">AWS Academy Data Engineering Graduate</a> – Credentialed via AWS Academy (2025)  
-- <a href="https://github.com/jeetshah30/jeetshah30/blob/main/AWS_Academy_Graduate___AWS_Academy_Machine_Learning_Foundations_Badge20250420-28-vdrwgs.pdf" target="_blank">AWS Academy Machine Learning Foundations</a> – Credentialed via AWS Academy (2025)  
-- <a href="https://github.com/jeetshah30/jeetshah30/blob/main/SUN_Award_JeetShah_ASU.pdf" target="_blank">ASU SUN Award</a> – Recognized for outstanding leadership and dedication to student success at Arizona State University (2024)  
-</p>
-
-
 <p align="left">
 📜 <b>Additional Certifications</b>  
 <br>
