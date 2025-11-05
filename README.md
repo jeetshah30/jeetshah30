@@ -90,6 +90,25 @@ I’m now seeking **full-time opportunities starting January 2026** in **Data An
 
 ---
 
+### 🏅 Certifications & Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS%20Academy-Data%20Engineering%20Graduate-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Academy-Machine%20Learning%20Foundations-blueviolet?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/SUN%20Award-ASU%20Student%20Success%20Leadership-brightgreen?style=for-the-badge&logo=google-scholar&logoColor=white" />
+</p>
+
+<p align="center">
+📜 <b>Additional Certifications</b>  
+<br>
+- SQL for Data Analysis (Coursera / Mode Analytics)  
+- Data Visualization with Tableau (Coursera)  
+- Python for Data Science (IBM Skills Network)  
+- Google Cloud Data Engineering Fundamentals  
+</p>
+
+---
+
 <h4 align="center">✨ "Turning data into decisions and ideas into innovation." ✨</h4>
 
 
