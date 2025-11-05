@@ -1,17 +1,16 @@
-Hi there! 
-My name is Jeet Shah
-Data Analyst | Aspiring Data Engineer | Tech Enthusiast
-I’m a data-driven analyst and M.S. Information Technology student at Arizona State University, passionate about turning raw data into meaningful insights. With hands-on experience in Python, SQL, and BI tools, I enjoy building data solutions that improve business performance and decision-making.
-Previously, I worked as a Data Analyst at Vaibhav Laxmi Spinning Mills, where I optimized ETL pipelines, created Power BI dashboards, and developed forecasting models that reduced operational costs. I’ve also contributed to projects involving machine learning, text processing, and API integrations during my internship at Brainy Beam Technology.
-I’m comfortable working across the data stack — from data collection and transformation to analytics and visualization — using tools like Power BI, Tableau, and Excel, along with ML frameworks such as Scikit-learn, TensorFlow, and PyTorch.
-Currently, I’m looking for full-time opportunities starting January 2026, where I can apply my skills in data analytics, business intelligence, or software engineering to solve real-world challenges.
-🌍 Based in Tempe, AZ
-🎓 M.S. in Information Technology @ Arizona State University
-✉️ Reach me at jshah96@asu.edu
-🤝 Open to collaborating on data analytics or machine learning projects
-🧠 Skills
-<p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="R" /></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tableau-colored.svg" width="36" height="36" alt="Tableau" /></a> <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/powerbi-colored.svg" width="36" height="36" alt="Power BI" /></a> <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" /></a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a> <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a> </p>
-🌐 Socials
-<p align="left"> <a href="https://github.com/jeetshah30" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/jeetshah3" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> </p>
-📊 My GitHub Stats
-<a href="http://www.github.com/jeetshah30"><img src="https://github-readme-stats.vercel.app/api?username=jeetshah30&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jeetshah30's GitHub stats" /></a>
+Hi there! 👋
+I'm Jeet Shah
+🎯 Data Analyst | Aspiring Data Engineer | Tech Explorer
+I’m a data-driven analyst and M.S. Information Technology student at Arizona State University, passionate about turning complex data into clear, actionable insights.
+With experience in Python, SQL, and Business Intelligence tools, I love designing data pipelines, crafting insightful dashboards, and building ML-powered solutions that solve real-world problems.
+At Vaibhav Laxmi Spinning Mills, I engineered ETL workflows, automated reporting pipelines, and deployed forecasting models that improved operational efficiency. My academic and project work also spans machine learning, cloud data engineering, and NLP applications.
+I’m currently seeking full-time opportunities starting January 2026 in Data Analytics, Business Intelligence, or Software Engineering, where I can leverage my technical and analytical skills to drive data-informed decision-making.
+💡 “Transforming data into decisions and insights into impact.”
+🧠 Tech Stack
+💻 Languages: Python | SQL | R | JavaScript
+📊 Analytics & BI: Power BI | Tableau | Excel | Google Data Studio
+☁️ Cloud & Tools: AWS | GCP | Docker | Git | Airflow
+🤖 Machine Learning: Scikit-learn | TensorFlow | PyTorch | NLP | Forecasting
+📫 Connect with Me
+✉️ jshah96@asu.edu
+🔗 LinkedIn
