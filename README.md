@@ -16,14 +16,44 @@
 
 ### 🧠 About Me
 
-I’m a <b>data-driven analyst</b> passionate about solving business problems through analytics, automation, and machine learning.  
-My journey spans building <b>ETL pipelines, data models, dashboards, and ML forecasting systems</b> that turn raw data into business value.  
+I’m a **data-focused analyst and technologist** currently pursuing my **M.S. in Information Technology at Arizona State University (Graduating Dec 2025)**.  
+My passion lies in using **data, automation, and cloud technologies** to deliver actionable insights and build scalable analytical solutions.  
 
-At **Vaibhav Laxmi Spinning Mills**, I engineered ETL pipelines, created interactive Power BI dashboards, and deployed forecasting models that optimized inventory and reduced costs.  
-My projects at **ASU** and in personal initiatives involve cloud platforms, statistical modeling, and natural language processing.
+I bring hands-on experience from **industry, academia, and freelance projects**, working across data analysis, business intelligence, and software development.
 
-Currently, I’m seeking **full-time opportunities (Jan 2026 start)** in:  
-💼 Data Analytics | Business Intelligence | Software Engineering  
+#### 💼 Professional Experience
+
+**Data Analyst – Vaibhav Laxmi Spinning Mills Pvt. Ltd. (India)**  
+I led multiple data initiatives to improve analytics reliability and reporting efficiency:  
+- Designed and optimized **ETL pipelines** (Python + SQL) to process over **1M records daily** from SAP systems.  
+- Developed **forecasting models** that reduced overstock by 15% and improved demand accuracy by 31%.  
+- Built **Power BI dashboards** for financial and operational reporting, automating KPI tracking across departments.  
+- Implemented **data quality frameworks**, reducing manual QA effort and increasing data reliability to 93%.
+
+**Project Intern – Brainy Beam Technology Pvt. Ltd.**  
+At Brainy Beam, I worked on text analytics and automation projects involving NLP and APIs:  
+- Created **text preprocessing pipelines** for 10K+ unstructured records, boosting NLP accuracy by 25%.  
+- Integrated **Google TTS APIs** to automate voice generation for accessibility use cases.  
+- Developed modular **data ingestion scripts** to support both structured (SQL, CSV) and unstructured (PDF, TXT) sources.
+
+**Freelance Data Analyst (Remote)**  
+As a freelancer, I collaborated with small businesses and startups to transform their data operations:  
+- Built **interactive Power BI and Tableau dashboards** for marketing and sales analytics.  
+- Automated **data pipelines** using Python and SQL, enabling near real-time business reporting.  
+- Designed **KPI frameworks and forecasting models** to support growth planning and budget decisions.
+
+#### 🎓 Academic Projects
+**Warehouse Operations Monitoring System**  
+- Designed and implemented a scalable **MySQL data warehouse** for 500K+ daily transactions.  
+- Automated ETL pipelines in Python, reducing reporting time from 3 hours to 15 minutes.  
+- Built **demand forecasting models** and **Tableau dashboards** for inventory optimization.  
+
+**Book Recommendation & User Segmentation**  
+- Developed a **collaborative filtering recommendation system** serving 10K+ users.  
+- Applied clustering and regression models to segment users and personalize recommendations.  
+- Performed **EDA and visualization** using Python, Pandas, and Matplotlib.  
+
+I’m now seeking **full-time opportunities starting January 2026** in **Data Analytics, Business Intelligence, or Software Engineering**, where I can apply my technical and analytical expertise to create impactful, data-driven solutions.
 
 ---
 
